@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Cube_Fall_Temp.sln"
+    "dotnet.defaultSolution": "Cube_Fall.sln"
 }
